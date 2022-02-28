@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The honest VVelch-cobler, for her do scorne to call her selfe the simple Welch-cobler: although her thinkes in all her consciences, if her had as many as would stand betweene Paules and Sharing-Crosse that her have not so much wit as her prother cobler of America yet her thinke her may have as much knavery; and though her have not so much Creek, which her holds to be heathenish; nor Hebrew, which her holds to be Shewish language; nor Latine, which is the language of Rome, yet her shall endever her selfe to reliver her selfe in as cood tialect as her can for her hait plood, for the petter understanding of all her friends and kindred, whether comro or siss, wherein her shall find variety of councells, profitable instructions, seasonable cautions, to prevent tangers that may come upon all her countrymen here; her also shall find some truth, little honesty, some wit, and a creat teale of knaverie. / By Shinkin ap Shone, ap Griffith, ap Gearard, ap Shiles, ap Shoseph, ap Lewis, ap Laurance, ap Richard, ap Thomas, ap Sheffre, ap Sheames, ap Taffie, ap Harie, all shentlemen in Wales.</title>
+            <title>Honest Welch cobler.</title>
+            <author>Shone, Shinkin ap.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93155</idno>
+            <idno type="STC">Wing S3436A</idno>
+            <idno type="STC">Thomason E379_4</idno>
+            <idno type="STC">ESTC R201397</idno>
+            <idno type="EEBO-CITATION">99861914</idno>
+            <idno type="PROQUEST">99861914</idno>
+            <idno type="VID">114060</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93155)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114060)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 60:E379[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The honest VVelch-cobler, for her do scorne to call her selfe the simple Welch-cobler: although her thinkes in all her consciences, if her had as many as would stand betweene Paules and Sharing-Crosse that her have not so much wit as her prother cobler of America yet her thinke her may have as much knavery; and though her have not so much Creek, which her holds to be heathenish; nor Hebrew, which her holds to be Shewish language; nor Latine, which is the language of Rome, yet her shall endever her selfe to reliver her selfe in as cood tialect as her can for her hait plood, for the petter understanding of all her friends and kindred, whether comro or siss, wherein her shall find variety of councells, profitable instructions, seasonable cautions, to prevent tangers that may come upon all her countrymen here; her also shall find some truth, little honesty, some wit, and a creat teale of knaverie. / By Shinkin ap Shone, ap Griffith, ap Gearard, ap Shiles, ap Shoseph, ap Lewis, ap Laurance, ap Richard, ap Thomas, ap Sheffre, ap Sheames, ap Taffie, ap Harie, all shentlemen in Wales.</title>
+                  <title>Honest Welch cobler.</title>
+                  <author>Shone, Shinkin ap.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by M. Shinkin, printer to S. Taffie, and are to be sold at the signe of the Goat on the Welch Mountaine.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Shinkin ap Shone is a pseudonym.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "March 11th 1646"; the 7 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Welsh wit and humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114060:1" rendition="simple:additions"/>
+            <p>The honeſt VVELCH-COBLER, for her do ſcorne to call her ſelfe the ſimple <hi>Welch-Cobler:</hi>
+            </p>
+            <p>Although her thinkes in all her Conſciences, if her had as many as would ſtand betweene <hi>Paules</hi> and <hi>Sharing-Croſſe</hi> that her have not ſo much wit as her Prother Cobler of <hi>A<g ref="char:EOLhyphen"/>merica,</hi> yet her thinke her may have as much knavery; and though her have not ſo much <hi>Creek,</hi> which her holds to be <hi>Heatheniſh;</hi> nor <hi>Hebrew,</hi> which her holds to be <hi>Shewiſh</hi> Language; nor <hi>Latine,</hi> which is the Language of <hi>Rome,</hi> yet her ſhall endever her ſelfe to teliver her ſelfe in as cood Tialect as her can for her hart plood, for the petter underſtanding of all her friends and kind<g ref="char:EOLhyphen"/>red, whether <hi>Comro</hi> or <hi>Siſs,</hi> wherein her ſhall find variety of counſells, profitable inſtructions, ſeaſonable cautions, to prevent tangers that may come upon all her countrymen here; Her alſo ſhall find ſome truth little honeſty, ſome wit, and a creat teale of kna<g ref="char:EOLhyphen"/>verie.</p>
+            <p>BY <hi>Shinkin</hi> ap <hi>Shone,</hi> ap <hi>Griffith,</hi> ap <hi>Gearard</hi> ap <hi>Shiles,</hi> ap <hi>Shoſeph,</hi> ap <hi>Lewis,</hi> ap <hi>Laurence,</hi> ap <hi>Richard,</hi> ap <hi>Tho<g ref="char:EOLhyphen"/>mas,</hi> ap <hi>Sheffre,</hi> ap <hi>Sheames,</hi> ap <hi>Taffie,</hi> ap <hi>Harie,</hi> All Shentlemen in WALES.</p>
+            <p>Printed by M. <hi>Shinkin,</hi> Printer to S. <hi>Taffie,</hi> and are to be ſold at the Signe of the <hi>Goat</hi> on the Welch Mountaine. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:114060:2"/>
+            <head>The honeſt Welch Cobler.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hen her take into teep and ſerious conſitteration the many abuſes and reproaches caſt upon her teer friends and countrymen, it many times makes her ſerach where it toth not itch, &amp; finding no redreſſe tat way, put rather more trouble and perplexitie poth in her head and mind, her reſolved with her ſelfe of another courſe for her owne and her countrey mens findi<g ref="char:EOLhyphen"/>cation, tat is as much as to ſay, to publiſh to the world ſome little Tract or Treatiſe, for her is fery eloquent, wherein her is minded to ſhow to the world the candour of her ententions, and the ex<g ref="char:EOLhyphen"/>cellencie of her inventions, the ſharpneſſe of her wit, &amp; the raſh<g ref="char:EOLhyphen"/>neſſe of her Judgment, which her had rather call the ripeneſſe of Shudgment, her skill in Philoſophy, her dexteritie in Divinitie, her magnanimous Chavaldrie in Martial Diſcipline, &amp; her knowledge in State-Maximes, as her may ſo call it, put to tell her the truth, and no more put the truth, her canowes not the meaning of the word, put onely her makes pold to uſe the word, to ſhew her ele<g ref="char:EOLhyphen"/>gancie of ſpeech, though her pee no more able to underſtand it then her is able to underſtand one of the creat mountaines in <hi>VVales.</hi> Put now her think out, her can underſtand more of her Welch mountaine then her can of her hard fraſes, for her can coe up to the top of her Welch mountaine, and tigg ſtones and tirt enough to preake her pack, and lay it on her head or ſhoulder, and then her unterſtands it, mark her tat now. Put to avoid prolixitie, her wil preak off prefacing any longer, put fall cloſe to her puiſines: put now her talke of puiſines, firſt her had peſt doe her puiſines that none can doe put her ſelfe, for feare her make a peaſtly piece of worke ont, put firſt her will ſing a ſong pefore her coe any fur<g ref="char:EOLhyphen"/>ther.</p>
+            <q>
+               <l>
+                  <hi>Taffie</hi> was prave, and her puilt her a Cave,</l>
+               <l>under the foot of a Mountaine,</l>
+               <pb n="3" facs="tcp:114060:2"/>
+               <l>
+                  <hi>Taffie</hi> was fine, and her tranke of the wine,</l>
+               <l>the water out of the Fountaine:</l>
+               <l>
+                  <hi>Taffie</hi> eat Apple-Crabb, put her love was a Trabb,</l>
+               <l>for trinking the whey out of the firking,</l>
+               <l>Put all the long day of her Harpe her will play,</l>
+               <l>and make the lowſe tance in her Sherking.</l>
+            </q>
+            <p>There was a time when her Welch wit would worke like her Welch wine, otherwiſe called <hi>Matheglinn,</hi> and lick up cold, as her countreymen uſe to lick up Welch <hi>Flumrey,</hi> put neither wit now nor honeſtie will pay any thing in her Welſh Markets, her muſt ſet her ſelfe flat and cloſe to her Trade of Cobling, and firſt I ſhall beekin with the createſt piece of worke I have, though it may be worſt payd for it, and that is Prince <hi>Ruperts</hi> Boots to ſole, and he uſeth to pay folkes with his Poleax. You may remember, as I was informed by ſome of her-owne Countreymen, and thoſe none of the peſt qualitie tat made a ſhift to ſave her ſelves by the nimble agilitie of her heeles at <hi>Marston</hi> fight, that Prince <hi>Rupert</hi> to ſave her ſelfe, ran over the Beane field, and there her loſt either one or both her ſoles, her ſtuck ſo faſt in the Clay: &amp; here her cannot put commend her for her wit, for her is ſure her will never pe hangd for her honeſtie, tat her would paralel her ſelf with her Coſſens of <hi>Wales,</hi> tat when her ſee her could not overcome by ſighting, to ſave her ſelfe by flying; and for tat trick and one more that her canowes her will ſet her on a payre of the peſt ſoles tat her wore in her life <hi>cratis,</hi> becauſe her canow tat her loſt all tere &amp; at <hi>Nazby,</hi> and never cot any cood fortune ſince, except a purge and a broken ſhyn at <hi>Abbington,</hi> and a little ſtrong Beere at <hi>Briſtol,</hi> and tere her was forced to leave the createſt part behind him, becauſe he could not ſtay to drink it but upon theſe conditions, firſt, that her come no more a plundring into her Welch territories, to carry away her cood Welch Shees, that her ſhould coſt for her none ſelfe, her wife and ſhildren, which though her ſayt her ſelfe, is made as cleanly as any Shees in all <hi>Wales,</hi> for her wife ſtrained it through the skirt of her foule ſmock, for feare there ſhould be any hayres of her Cow or Goat in her Shees to ſhoake her.</p>
+            <p>Secondly, tat if her ever ſhance to come againe into <hi>England</hi> or <hi>Wales,</hi> and to have any of her countrymen under her command,
+<pb n="4" facs="tcp:114060:3"/>tat her pring tem no further on, ten her can canow how to pring tem off with credit, and not run away from tem in te midſt of te pattle, and leave tem to ſhift for temſelves while her ſelfe fall to plundring of waggons and ſo her ſelfe cet all te money, while her countreymen get kanocks: and upon the performances of theſe conditions, her will give her ſome advice which will doe her no hurt, if her wil take it: and firſt, tat her come no more into <hi>England</hi> or <hi>Wales,</hi> if her can help it, to fight, for though her be a man of va<g ref="char:EOLhyphen"/>lour, and loves to fight when her cannot ſhuſe, yet her kanowes by experience that her may meet with her match in <hi>England,</hi> tat will paſt her ſides, and preake her pate, and ſend her home to her owne countrey for a plaiſter, and what will her get by tat?</p>
+            <p>Secondly, tat her uſe her utmoſt endever to make her peace with cood Parliament &amp; people of <hi>England:</hi> for if her wel conſider with her ſelfe what cood tey have done for her, and what miſchiefe her hath done for them, her will find cauſe enough to looke about her I warrant her. But her feele her ſelfe not well, call in ſome of her kindred, for her is reſolved to make her Will, and ſet her houſe in order, pefore her goe away and pe ſeene no more, and if her ſhance to mend, her will follow her owne Trade againe: put in the meane time her will make an Inventorie of all her cood and bad move<g ref="char:EOLhyphen"/>ables and immoveables, and make her Cozen <hi>Maurice</hi> Executor.</p>
+            <list>
+               <item>Imprimis, <hi>in her ped-ſhamber one foule wife and five ſmall ſhil<g ref="char:EOLhyphen"/>dren, thoſe being part of her moveable pads, I wiſh from her heart they were removeable.</hi>
+               </item>
+               <item>Item, <hi>in another ſhamber two payre of eurst Queanes toungues, or tongs ſhould I call them, no, its no matter, they will pinch worſe then tongs, they are moveables Ile warrant you.</hi>
+               </item>
+               <item>Item, <hi>in her Pride-ſhamber one payre of Hornes upon her peds head, tat her may thank her wife for, and theſe are unmoveable coods.</hi> Felix quem faciunt aliena pericula cautem; <hi>Happie is her whom other mens Hornes doe make to beware.</hi>
+               </item>
+               <item>Item, <hi>one proken pate owing to her by one of her neighbours for a cood turne her tid tem ſeven years agoe, that is deſperate debt.</hi>
+               </item>
+               <item>Item, <hi>five hundred ſhrewd turnes owing to me from her Coſens of</hi> England, <hi>for and in conſiteration of divers Horſe, Cowes and Sheepe her ſtole from them, put theſe are deſperate debts alſo.</hi>
+               </item>
+            </list>
+            <pb n="5" facs="tcp:114060:3"/>
+            <p>Put now her ſpirits pegins to come to her againe, and therefore one word to Prince <hi>Maurice,</hi> for her hath peen a creat Tancer in her time, and her is doubtfull that her ſoles of her poots begin to weare out, and therefore her will peſtow a payre of ſoles upon him, if her thought her would take it in cood part, and her would give her cood counſell with all her heart plood: firſt, that her would not tance any more after ſuch ungodly meaſures tat her hath done in former times, in firing houſes, killing cood Miniſters, and tivers of her owne teare countreymen which cave her no cauſe at all: I would have her conſider, tat it were too baſe a calling for one of her plood and qualitie to turne <hi>Lyme</hi> burner, if her remember when and how well her was payd for her paines: when her went apout to purne <hi>Lyme,</hi> her ſhould conſider, that it was unfit for her Highneſſe to purne whole Townes in <hi>England,</hi> when her had never a Houſe nor Cottage of her owne, little or pigg, to make ſatisfaction for the wrongs which her had done; and though her prother was made Duke of <hi>Cumberland,</hi> yet it were put Titular; what is her Title worth now? in her ſhudgment it is not worth the ſmoake of one of her Welch Ladles, when her wife makes Leeke-pottage: and therefore her ſay, Prince, if her pee wiſe, keepe her away while her is well, for as her is a Prince of the plout Royall, if her never be catcht, her can never be queſtioned: and thinke her have given her cood counſell, and her hope her will not pee cruſty, though her pee ſomewhat hard-bakt, if her ſhould heare, that her and her prother peeing growne men, have helpt to rob five hundred tat helpt to feed tem when tey were ſhildren.</p>
+            <p>And pefore her forget her, forget her did her ſay, her warrant her her ſhall never forget her while her live, nor twentie yeare after, the Marquis of <hi>Newcaſtle,</hi> a pox on her picture, her thinks her was no witch, put her made her ſelfe as plack as a Tivell with her Coale-duſt, no matter if her had peen choakt with it, for her made many of her friends and countreymen in and about <hi>London</hi> to fret themſelves hot, and at laſt many were glad to ſell or pawne all tat her ſelfes and her wifes and ſhildren had workt for all her life time, to get her ſome fire. Put if ever her catch her in her Welch Territories, her will make her run as faſt as her did when her run away beyond Sea
+<pb n="6" facs="tcp:114060:4"/>after <hi>Marſton-moore,</hi> and therefore if her canow when her is well, let her keepe her ſelfe where her is, and if her have worne out her poots in her running march its peſt for her to go to her Couzen Cobler in <hi>America,</hi> and her will parch her poot for her <hi>cratis,</hi> for her do tell her in plaine termes it is not ſafe for her to come upon out <hi>Welch</hi> or <hi>Engliſh</hi> coaſts, for fear her ſhould catch a blociſh Ague, as her Couzen <hi>Strafford</hi> did or the Beſhits Crace of <hi>Canterbury,</hi> and many others which her could name, for if te Parliament ſhance to feele her pulſes and find her not well quali<g ref="char:EOLhyphen"/>fied for to take ſome Parliament phyſick to purge away all her Malignant humours, yet her will go neere to let her plood in te neck, and then her mind will be quite ſhanged her will rever be cood after it, and ſo her takes her leave of her Marquis of <hi>Newcastle,</hi> better take her leave here then at the—</p>
+            <p>Next her would intreat the new Lord <hi>Capell,</hi> a Lord of te laſt Edition, her do ſcorne to call her Cow-ſtealer, her father was an honeſt Shentleman, and kept a cood houſe, her little thought of leaving a Son ſo famous for Coward ze and Cow-ſtealing, but <hi>Tawſone,</hi> her will ſay no more onely her would entreat her ne<g ref="char:EOLhyphen"/>ver to come more into <hi>VVales,</hi> for her do tell her, tat her is like to loofe her labour if her come, for her have almoſt no Cowes left in <hi>VVales:</hi> Therefore her had as cood keepe her where her is as come to trouble her and her Countrymen and her ſelfe, too I could tell her her none, but her ſpares her becauſe her was late<g ref="char:EOLhyphen"/>ly created Baron of <hi>Haddum,</hi> but now her thinkes her may now be called Baton of <hi>Hadland,</hi> for her could tell her how many creat Pig-houſes her had in <hi>Hartfordſhire,</hi> where her Baronie of <hi>Hadland, Haddum</hi> I ſhould ſay lies, where her knowes her ut<g ref="char:EOLhyphen"/>ſhip had Parks where were as many horned Beaſts as there are <hi>apps</hi> in her <hi>VVelch</hi> Sheneologes, and ſo her have done with her urſhip for this time, onely her would entreat her urſhip if her have any Cow-Hides left, tat her would put them to tanning for feare her ſhould want leather to ſole her poots, and ſo <hi>Du Cat en ergh.</hi>
+            </p>
+            <p>Put roome for <hi>Cottington</hi> that <hi>Spaniſh</hi> Fox, her had more fami<g ref="char:EOLhyphen"/>liaritie with <hi>Roman</hi> keeſe then were fit for her urſhip to have for they have hatcht many Cockatrice eggs againſt the Citie and Par<g ref="char:EOLhyphen"/>liament, and they proved gallant Gooſling in his eye for the
+<pb n="7" facs="tcp:114060:4"/>time, but now they are all daſht, her heard that her urſhip was made Lord High Treaſurer, but now her tall Cedar-like Honour is laid in the duſt, but her will tell her one infallible truth which her urſhip will not deny: Since her left her Urſhips creat Houſe in <hi>Proadstreet,</hi> there hath pin more money told then all her Ho<g ref="char:EOLhyphen"/>nour is worth, if her Honour were to be ſold by weight, but her urſhip hath found by her none experience, that there pee ſhurch in <hi>England</hi> that will unkennell the ſubtileſt old Fox in <hi>Spaine,</hi> if her come heere to give evill counſell, her would wiſh her urſhip to earth her ſelfe in ſome other ſoyle, if her love her ſelfe and her eares, come not into her Welch teritories, for her have put few Sheep or Lambs, nor Goats, nor Kids, nor Tucks, nor Hens, nor Keeſe, nor Kooſtins, leſt in her principallity of <hi>VVales,</hi> and beſide her have Foxes <hi>Diggon</hi> in <hi>VVales,</hi> and therefore her de<g ref="char:EOLhyphen"/>ſires none of her company in <hi>Wales,</hi> to devoure her Welch Poultry, ſo farewell and be— <hi>Foxes never fare better then when they are curst.</hi>
+            </p>
+            <p>Put now her can forbeare no longer, her was ready to preake packwards, and then her ſhould long her cood flanell ſhirt which coſt two croats put halfe a year agoe, when her call to mind one of her owne countrymen fleſh, plood and pone, her cannot ſhuſe but admire at her, her meane the Piſhop of <hi>Yorke,</hi> the Weather-Cock, the wonder of her age, her ſhould have ſaid, but her hope her Preterne of <hi>England</hi> will pardon her expreſsions, I hope her will not deny her wonted priviledge, that is, to tell her tale twice her being a Welchman put to her matter in hand, her countryman is mettall to the hard ars, for her can uſe her <hi>Paules</hi> Sword, as well as her <hi>Peters</hi> Keyes, her may ſee that while there is life there is hopes, her had as many thought to ſee the Tevill turn Presby<g ref="char:EOLhyphen"/>ter as her countryman and kinſman <hi>Williams,</hi> put now her think a Wind-mill would better beceme her head then a Miter, and ſo het will take her leave of her countryman.</p>
+            <p>And then there is her Couzen <hi>Wren,</hi> that little Bird, but her was ferry full of miſchief as her ſheeſe uſe to be full of Maggots, this is her that kept the Taylors wife at <hi>Cambridge,</hi> and made her Husband looke through a payre of horning Spectacles, all the Soape and Sophiſtrie in <hi>Cambridge</hi> will not waſh out that ſpot in her Lawne Sleeves, her was put to ſilence above threeſcore Mini<g ref="char:EOLhyphen"/>ſters
+<pb n="8" facs="tcp:114060:5"/>at one Fifie, her was creat inſtrument in placing ſcandalous Prieſts up and towne her Country, where her had to do, ſuch as was in her owne Country, that would read ſervice in the fore<g ref="char:EOLhyphen"/>noone and pe trunke in the after-noone, nay, perhaps be trunke all the weeke after, and yet they were ſo covetous, tat her had put thirteene eggs in an Neſt and her went to law with her, and made her ſpend ten pounds, pecauſe her gave her but one for Tyth: but now her little <hi>Wren</hi> is met withall, now her cannot do miſ<g ref="char:EOLhyphen"/>chief as her did before, her is in the Tower and her do pray her Lieutenant and her Warders to looke well to her, for her is put a little Pird, and can get out at a little hole, and her would pray her to keepe her wings clipt, for feare her ſhould fly away; her thinkes in Conſcience her cood Parliament might doe well to ſend her to <hi>New-England</hi> to work for her living, for her have bin ſo cood in <hi>Old England</hi> that no pody cares for her companie, and beſide ſhange of Aire may ſhange his mind, for her have heard men ſay tat ſhange of paſture makes fat Calves, and why not ſhange of climates make fat Knaves, her canow that her preterne of <hi>England</hi> would be glad to be rid of him, &amp; ſo much for <hi>Wren.</hi>
+            </p>
+            <p>Her had almoſt forgot her Lordſhip <hi>Littleton,</hi> that run away with the Creat Seale, her was never the wiſer man for that, nor never the honeſter man, to play the knave with them that dealt ſo well with him: but her have not much to ſay to her, becauſe her have but little acquaintance with her, onely take beed to her ſelfe, for her knowes what is the reward of a pick-pocket petter then her ſelfe.</p>
+            <p>And then there is the Lord <hi>Hopton,</hi> a man of mettall, and a wife man, or elſe he ſhould be, for there is not one hair between her and the sky, it is pitty her was ever engaged in ſuch a quarel, her was fayne to ſell her honeſty to buy her a periwig of honour, a Titular Baronie, and now her is glad to hop away, and leave her Houſe and Land behind her, and carry nothing with her but her Periwig, which is but light of carriage, her may carry it whi<g ref="char:EOLhyphen"/>ther her will with her, except her come to <hi>London,</hi> and then her moſt lay it downe, but her thinke hardly her will come there; farewell froſt, if her never come againe there is nothing loſt.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
